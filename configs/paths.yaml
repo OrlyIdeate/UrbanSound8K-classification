@@ -1,0 +1,4 @@
+paths:
+  raw_dir: "data/raw/UrbanSound8K"
+  feat_dir: "data/features"
+  out_dir: "outputs"

@@ -1,0 +1,8 @@
+audio:
+  sr: 16000
+  n_fft: 1024
+  hop_length: 512
+  n_mels: 64
+  fmin: 50
+  fmax: 8000
+  duration_sec: 2.0
