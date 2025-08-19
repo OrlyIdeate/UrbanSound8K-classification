@@ -1,0 +1,2 @@
+# UrbanSound8K-classification
+2026年ディープラーニング前期課題用のリポジトリです。UrbanSound8kデータセットの分類モデルを構築・評価
