@@ -20,3 +20,6 @@ soundfile
 
 # Logging
 tensorboard
+
+# Dataset manager
+soundata

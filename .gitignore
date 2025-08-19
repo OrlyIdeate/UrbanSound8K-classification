@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Other
+#  Add any other files or directories that you want to ignore here.
+data/raw/UrbanSound8K/UrbanSound8K.tar.gz

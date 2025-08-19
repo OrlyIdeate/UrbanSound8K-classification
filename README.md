@@ -7,6 +7,9 @@ python -m venv .venv
 source .venv/bin/activate   # Windows: .\.venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
+
+# UrbanSound8K を自動ダウンロード（保存先は configs/paths.yaml の paths.raw_dir）
+python scripts/prepare_data.py --paths configs/paths.yaml
 ````
 
 ## 前処理（特徴量生成）
