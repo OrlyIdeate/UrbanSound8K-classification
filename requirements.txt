@@ -1,0 +1,22 @@
+# Core
+numpy
+scipy
+pandas
+matplotlib
+tqdm
+pyyaml
+
+# Jupyter
+jupyter
+ipykernel
+
+# DL
+torch
+torchaudio
+
+# Audio
+librosa>=0.10.0
+soundfile
+
+# Logging
+tensorboard
