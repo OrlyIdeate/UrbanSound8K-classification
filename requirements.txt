@@ -23,3 +23,6 @@ tensorboard
 
 # Dataset manager
 soundata
+
+# 日本語化
+japanize-matplotlib
